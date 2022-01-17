@@ -7,3 +7,7 @@ Landing page para informações sobre a LGPD
 .Bootstrap 5
 
 Link: https://determined-spence-26caad.netlify.app/
+
+Obs: Landing Page criada para um processo seletivo.
+
+ 
